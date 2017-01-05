@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AsyncTask OnClick</string>
+
+    <string name="btn_call_async_text">Call async task</string>
 </resources>
